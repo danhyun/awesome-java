@@ -96,6 +96,7 @@ A curated list of awesome Java frameworks, libraries and software. Inspired by o
 *Everything which simplifies interactions with the database.*
 
 * [Flyway](http://flywaydb.org/) - Simple database migration with Java API.
+* [Liquibase](http://www.liquibase.org/) - Database migration that can be using in bigger teams.
 * [JDBI](http://jdbi.org/) - Convenient abstraction of JDBC.
 * [jOOQ](http://www.jooq.org/) - Generates typesafe code based on SQL schema.
 * [Presto](https://github.com/facebook/presto) - Distributed SQL query engine for big data.
